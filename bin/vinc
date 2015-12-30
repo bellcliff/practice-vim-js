@@ -1,0 +1,2 @@
+#!/bin/bash
+cd ~/.vim/bundle && git clone --recursive $1
